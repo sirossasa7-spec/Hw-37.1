@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="Hw-37.1.cpp" />
     <ClCompile Include="Ingredient.cpp" />
+    <ClCompile Include="MultiCooker.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ingredient.h" />
+    <ClInclude Include="MultiCooker.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

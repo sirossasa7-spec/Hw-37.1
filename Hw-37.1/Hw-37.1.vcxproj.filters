@@ -21,9 +21,15 @@
     <ClCompile Include="Ingredient.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="MultiCooker.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ingredient.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiCooker.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
